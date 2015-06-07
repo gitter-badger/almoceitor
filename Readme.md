@@ -1,5 +1,7 @@
 # Almoceitor
 
+[![Join the chat at https://gitter.im/dojorio/almoceitor](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dojorio/almoceitor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Histórico
 Nós do [Ruby on Rio][rubyonrio] queremos trocar ideias durante o almoço, 
 e o dia da semana escolhido foi quarta-feira.
